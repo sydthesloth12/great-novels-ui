@@ -1,0 +1,24 @@
+.page {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+    .title {
+  font-size: x-large;
+  font-weight: bold
+  }
+  
+  .subtitle {
+  font-size: large;
+  font-style: italic
+  }
+  
+  .searchBox {
+    margin-top: 3rem;
+    padding: 3rem;
+    width: 100%;
+    border-color: blue;
+  }
